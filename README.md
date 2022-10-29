@@ -58,6 +58,15 @@
 ### NOTE : -> MongoDB Should be installed.
 ###        -> POSTMAN Should be installed.
 
+## ScreenShots:
+
+![Screenshot (70)](https://user-images.githubusercontent.com/41435248/198818068-31eb802f-0ac4-44fe-96cf-4fd75d522e37.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/41435248/198818071-df0ce53c-aa07-4839-ba5c-ef955e9bf4e2.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/41435248/198818072-2f6d085f-b131-4ae5-9df4-ff7104ef031d.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/41435248/198818073-593d3da4-50fd-4c85-b63a-289e3b609cfd.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/41435248/198818075-ee03ae9e-a300-4dbb-a4d1-2fe94f06dc38.png)
+
+
 
 ### For any queries contact this email (nandukumar985@gmail.com)
 
